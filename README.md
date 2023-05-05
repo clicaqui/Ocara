@@ -1,4 +1,3 @@
-Ocara
-=====
+# Ocara
 
-Sistema de gerenciamento dos Telecentros do Banco do Brasilfuncionou
+Sistema de gerenciamento dos Telecentros do Banco do Brasil
